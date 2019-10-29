@@ -1,0 +1,6 @@
+{
+    "name": "rio/bootstrap-table",
+    "description": "Beberapa file Bootstrap table",
+    "minimum-stability": "dev",
+    "require": {}
+}
